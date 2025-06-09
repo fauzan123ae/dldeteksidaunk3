@@ -1,9 +1,7 @@
-python_version == 3.10
-
 tensorflow==2.13.0
 keras==2.13.1
 streamlit==1.26.0
-numpy==1.26.4
+numpy==1.23.5
 pillow==9.5.0
 matplotlib==3.7.3
 pandas==1.5.3
